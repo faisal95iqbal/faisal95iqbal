@@ -79,7 +79,7 @@ A lightweight **task and productivity management tool** developed using **DRF**,
     <img src="https://img.shields.io/badge/LinkedIn-Faisal%20Iqbal-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:faisal95iqbal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-faisaliqbal%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-faisal95iqbal%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
